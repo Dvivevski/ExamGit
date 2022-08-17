@@ -27,6 +27,14 @@
     border-top: 5px solid white;
 }
 
+.hrlogo2 {
+    width: 5%;
+    margin: 0 auto;
+    padding: 0 auto;
+    border-top: 5px solid rgb(255, 0, 0);
+}
+
+
 .navbar {
     width: 80%;
     margin: 0 auto;
@@ -44,4 +52,40 @@
 
 .about-us-cont {
     text-align: center;
+}
+
+.wwd {
+    font-family: 'Caveat', cursive;
+    font-size: 35px;
+}
+
+.sau {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 55px;
+}
+
+.card1 {
+    background-image: url(/img/card1.jpg);
+    margin: 10px;
+    height: 250px;
+    background-size: cover;
+}
+
+.card2 {
+    background-image: url(/img/card2.jpg);
+    margin: 10px;
+    height: 250px;
+    background-size: cover;
+}
+
+.card3 {
+    background-image: url(/img/card3.jpg);
+    margin: 10px;
+    height: 250px;
+    background-size: cover;
+}
+
+.a-about {
+    width: 70%;
+    margin: 0 auto;
 }
