@@ -114,3 +114,25 @@
 .numbers-col {
     border: 1px solid white;
 }
+
+.service-cards {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.a-s-text {
+    font-size: 17px;
+}
+
+.a-s-text2 {
+    font-size: 12px;
+}
+
+.icon-b {
+    color:  #95e1d3;
+}
+
+.hr-services {
+    width: 70%;
+    margin: 0 auto;
+}
