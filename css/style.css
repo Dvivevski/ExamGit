@@ -89,3 +89,28 @@
     width: 70%;
     margin: 0 auto;
 }
+
+.shorttext {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.numbers-check {
+    background-color: #95e1d3;
+    height: 170px;
+    color: white;
+}
+
+.description-number {
+    font-weight: lighter;
+    font-size: 12px;
+}
+
+.numbers-row {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.numbers-col {
+    border: 1px solid white;
+}
