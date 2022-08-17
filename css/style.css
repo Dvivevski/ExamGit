@@ -1,0 +1,47 @@
+.navcontainer {
+    background-image: url(/img/bgHeader.jpg);
+    background-size: cover;
+    height: 600px;
+    color: white;
+}
+
+.logoDiv {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.logocursive {
+    font-family: 'Caveat', cursive;
+    font-size: 60px;
+}
+
+.mainlogofont {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 120px;
+}
+
+.hrlogo {
+    width: 5%;
+    margin: 0 auto;
+    padding: 0 auto;
+    border-top: 5px solid white;
+}
+
+.navbar {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.mainbtn {
+    color: white;
+    border: 2px solid white;
+    width: 170px;
+}
+
+/* .mainbtn:hover {
+    box-shadow: ;
+} */
+
+.about-us-cont {
+    text-align: center;
+}
