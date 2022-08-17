@@ -136,3 +136,17 @@
     width: 70%;
     margin: 0 auto;
 }
+
+.unique-des {
+    height: 600px;
+    background-image: url(/img/bg-uniq.jpg);
+    background-size: cover;
+    overflow: hidden;
+}
+
+.ipadimage {
+    position: relative;
+    left: 250px;
+    width: 800px;
+
+}
