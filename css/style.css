@@ -1,3 +1,9 @@
+body {
+    max-width: 1920px;
+    margin: 0 auto;
+}
+
+
 .navcontainer {
     background-image: url(/img/bgHeader.jpg);
     background-size: cover;
@@ -141,12 +147,27 @@
     height: 600px;
     background-image: url(/img/bg-uniq.jpg);
     background-size: cover;
-    overflow: hidden;
 }
 
-.ipadimage {
-    position: relative;
-    left: 250px;
-    width: 800px;
+.test {
+    overflow: hidden;
+    height: 437px;
+    left: 30%;
+    top: -55px;
 
+}
+
+.test4 {
+    width: 700px;
+}
+
+.test3 {
+    width: 400px;
+   
+
+}
+
+.test2 {
+    left: 50%;
+    top: 80px;
 }
