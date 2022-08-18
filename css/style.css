@@ -128,6 +128,8 @@ body {
 
 .a-s-text {
     font-size: 17px;
+    color: black;
+
 }
 
 .a-s-text2 {
@@ -149,7 +151,7 @@ body {
     background-size: cover;
 }
 
-.test {
+.imgset1 {
     overflow: hidden;
     height: 437px;
     left: 30%;
@@ -157,17 +159,36 @@ body {
 
 }
 
-.test4 {
+.imgset2 {
     width: 700px;
 }
 
-.test3 {
+.imgset4 {
     width: 400px;
    
 
 }
 
-.test2 {
+.imgset3 {
     left: 50%;
     top: 80px;
+}
+
+.add-photoblock {
+    background-image: url(/img/photo.jpg);
+    background-size: cover;
+}
+
+.wwd-w {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.slide-cite {
+    background-color: #888888;
+    height: 200px;
+}
+
+.carousel, .carousel-indicators, .carousel-inner, .carousel-item, .mtext {
+    height: 200px !important;
 }
