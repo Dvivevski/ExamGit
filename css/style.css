@@ -427,3 +427,29 @@ body {
 .gallery-images {
     overflow: hidden;
 }
+
+
+.citegirl {
+    background-color: white !important;
+}
+
+
+/* .what-p-s {
+    background-image: url(https://picsum.photos/1920/1080?random=23);
+
+} */
+
+
+.what-p-s {
+    position: relative;
+    z-index:1;
+    overflow:hidden; /*if you want to crop the image*/
+}
+.what-p-s:before{
+    z-index:-1;
+    position:absolute;
+    left:0;
+    top:0;
+    content: url(https://picsum.photos/1920/1580?random=23);
+    opacity:0.4;
+}
