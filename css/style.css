@@ -1,6 +1,7 @@
 body {
     max-width: 1920px;
     margin: 0 auto;
+    overflow-x: hidden;
 }
 
 
@@ -112,6 +113,38 @@ body {
     visibility: visible;
 }
 
+.image-g-1:hover .gradient-img {
+    visibility: visible;
+}
+
+.image-g-2:hover .gradient-img {
+    visibility: visible;
+}
+
+.image-g-3:hover .gradient-img {
+    visibility: visible;
+}
+
+.image-g-4:hover .gradient-img {
+    visibility: visible;
+}
+
+.image-g-5:hover .gradient-img {
+    visibility: visible;
+}
+
+.image-g-6:hover .gradient-img {
+    visibility: visible;
+}
+
+.image-g-7:hover .gradient-img {
+    visibility: visible;
+}
+
+.image-g-8:hover .gradient-img {
+    visibility: visible;
+}
+
 .text-ico-hov {
     color: white;
     position: absolute;
@@ -144,6 +177,40 @@ body {
 .man3:hover .text-ico-hov {
     visibility: visible;
 }
+
+
+.image-g-1:hover .text-ico-hov {
+    visibility: visible;
+}
+
+.image-g-2:hover .text-ico-hov {
+    visibility: visible;
+}
+
+.image-g-3:hover .text-ico-hov {
+    visibility: visible;
+}
+
+.image-g-4:hover .text-ico-hov {
+    visibility: visible;
+}
+
+.image-g-5:hover .text-ico-hov {
+    visibility: visible;
+}
+
+.image-g-6:hover .text-ico-hov {
+    visibility: visible;
+}
+
+.image-g-7:hover .text-ico-hov {
+    visibility: visible;
+}
+
+.image-g-8:hover .text-ico-hov {
+    visibility: visible;
+}
+
 
 .card1:hover, .card2:hover, .card3:hover, .man1:hover, .man2:hover, .man3:hover{
     box-shadow: 10px 5px 5px #95e1d3;
@@ -299,4 +366,64 @@ body {
 
 .social-ico-m {
     font-size: 60px;
+}
+
+.logo-random {
+    background-color:  #d3d3d3;
+}
+
+.img-random {
+    width: 130px;
+    height: 130px;
+}
+
+.gallery-images {
+    height: 300px;
+    width: 300px;
+}
+
+.image-g-1 {
+    background-image: url(https://picsum.photos/500/500?random=1);
+    background-image: cover;
+}
+
+.image-g-2 {
+    background-image: url(https://picsum.photos/500/500?random=2);
+    background-image: cover;
+}
+
+.image-g-3 {
+    background-image: url(https://picsum.photos/500/500?random=3);
+    background-image: cover;
+}
+
+.image-g-4 {
+    background-image: url(https://picsum.photos/500/500?random=4);
+    background-image: cover;
+}
+
+.image-g-5 {
+    background-image: url(https://picsum.photos/500/500?random=5);
+    background-image: cover;
+}
+
+.image-g-6 {
+    background-image: url(https://picsum.photos/500/500?random=6);
+    background-image: cover;
+}
+
+.image-g-7 {
+    background-image: url(https://picsum.photos/500/500?random=7);
+    background-image: cover;
+}
+
+.image-g-8 {
+    background-image: url(https://picsum.photos/500/500?random=8);
+    background-image: cover;
+}
+
+
+
+.gallery-images {
+    overflow: hidden;
 }
