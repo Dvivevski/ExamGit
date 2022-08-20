@@ -450,6 +450,21 @@ body {
     position:absolute;
     left:0;
     top:0;
-    content: url(https://picsum.photos/1920/1580?random=23);
+    content: url(https://picsum.photos/1920/1580?random=11);
     opacity:0.4;
+}
+
+.portrait {
+    width: 150px;
+    border-radius: 50%;
+}
+
+.hrlogo3 {
+    width: 15%;
+  border-top: 5px solid rgb(255, 0, 0);
+
+}
+
+.wh-pe-ss {
+    font-size: 13px;
 }
