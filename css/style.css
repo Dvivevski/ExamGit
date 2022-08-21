@@ -468,3 +468,25 @@ body {
 .wh-pe-ss {
     font-size: 13px;
 }
+
+.blog-img {
+   
+}
+
+.image-blog {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;	
+}
+
+.date-blog {
+    background-color: #95e1d3;
+    width: 50px;
+    height: 50px;
+    top: 75%;
+    left: 0%;
+}
+
+.colorico {
+    color: #95e1d3;
+}
